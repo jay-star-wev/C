@@ -15,7 +15,6 @@ Simple Cookie Eater v0.1
 
 *follow my example to run:
   root# gcc -o code code.c -lpcap; ./code eth0 1000 log.txt
-
 is held by GPL
 Based in tcpdump
 
